@@ -7,7 +7,6 @@ description: >
 permalink: ':title/'
 baseurl: ""
 url: "https://www.joshreedschramm.com"
-site-twitter: 
 
 author: Josh Reed Schramm
 author-img: josh-schramm.jpg
@@ -17,3 +16,21 @@ social-facebook: joshreedschramm
 social-github: joshreedschramm
 social-linkedin: joshschramm
 social-email: josh.schramm@gmail.com
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
