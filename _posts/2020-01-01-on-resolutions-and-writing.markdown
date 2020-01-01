@@ -3,7 +3,6 @@ layout: post
 title: On Resolutions (and Writing)
 date: 2020-01-01 16:30:00 -0500
 description: It's been a while (again)
-img: 
 tags: [Writing, Personal, Resolutions]
 ---
 
