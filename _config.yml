@@ -1,1 +1,18 @@
 remote_theme: joshreedschramm/flexible-jekyll
+title: Josh Reed Schramm - A Guy from Ohio
+description: >
+  Home page for Josh Reed Schramm. VP of Engineering at Groupize, Dad, Developer
+  and other fun things. I write about tech, programming, politics and really
+  whatever I feel like.
+permalink: ':title/'
+baseurl: ""
+url: "https://www.joshreedschramm.com"
+site-twitter: 
+
+author: Josh Reed Schramm
+author-img: josh-schramm.jpg
+about-author: VP of Engineering @ Groupize. I'm a Dad, developer and help a kick ass team be successful.
+social-twitter: JoshReedSchramm
+docial-facebook: joshreedschramm
+social-github: joshreedschramm
+docial-linkedin: joshreedschramm
