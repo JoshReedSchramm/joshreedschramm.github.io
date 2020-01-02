@@ -50,8 +50,8 @@ In November 2018 I had bariatric surgery - specifically Roux-en-Y Gastric Bypass
 
 ### 6. Pay Attention to Mental Health
 
-I mentioned earlier I was dealing with some Anxiety issues. I saw my doctor about that last year and was referred to talk to someone. Ironically that also makes me anxious but the goal is to finally get on someones calendar in the new year. I'll combine that with continuing to take the, very mild, meds I was given and writing about my world. Hopefully that helps. I'll talk more about this one in the future but I want to get a bit more down the path before I say a lot publicly. In short - it's nothing to be concerned about but something I'm finally paying attention to. . 
+I mentioned earlier I was dealing with some Anxiety issues. I saw my doctor about that last year and was referred to talk to someone. Ironically that also makes me anxious but the goal is to finally get on someones calendar in the new year. I'll combine that with continuing to take the, very mild, meds I was given and writing about my world. Hopefully that helps. I'll talk more about this one in the future but I want to get a bit more down the path before I say a lot publicly. In short - it's nothing to be concerned about but something I'm finally paying attention to.
 
 ### Wrapping Up
 
-So that's my really long winded first post in 7 years. I promise future posts will be shorter and more strategic but when you haven't written in as long as I gave sometimes you just gotta kick stuff off with wall of text. If you find and read this - thanks. Hit me up on Twitter or whatever if you have thoughts. Until next time. 
+So that's my really long winded first post in 7 years. I promise future posts will be shorter and more strategic but when you haven't written in as long as I gave sometimes you just gotta kick stuff off with wall of text. If you find and read this - thanks. Hit me up on Twitter or whatever if you have thoughts. Until next time.
